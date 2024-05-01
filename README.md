@@ -17,3 +17,6 @@ incorporarse deberá loguearse.
  Se puede seleccionar los ingredientes de la comida comida que puede o no encontrarse  en stock, agregarlo al carrito de compras (cart) y elegir su cantidad .
  Al solicitar el pedido ingresa direccion, pin-code y ciudad y se nos redirige a la pagina de pasarela de pago para finalizar el pago.
  Desde el administrador se dan de alta los restaurants y se nos permite ver los detalles, agregar y modificarlos.
+
+ 
+![01.pgerd.png](01.pgerd.png)
